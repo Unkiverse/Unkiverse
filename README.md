@@ -19,4 +19,5 @@ this kind of contribution requires an additional step after adding this piece of
 you need to go the file that is called "Sources" and add the reference
 under the given name of the category like the following:
 
-Internet link: URL Book, magazines, newspapers: Author's name, medium's name, page's number.
+Internet link: *URL* 
+Book, magazines, newspapers: *Author's name, medium's name, page's number.*
