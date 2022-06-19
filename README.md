@@ -24,8 +24,8 @@ you need to go the file that is called "Sources" and add the reference
 under the given name of the category like the following:
 
 
-a. Internet link: *URL* 
+    a. Internet link: *URL* 
 
-b. Book, magazines, newspapers: *Author's name, medium's name, page's number.*
+    b. Book, magazines, newspapers: *Author's name, medium's name, page's number.*
 
 
