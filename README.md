@@ -21,7 +21,10 @@ viewing the content is for everyone but editing and modifying Unkiverse's conten
   
   
   
+  
+  
 ### How to contribute:
+  
 
 There is two kinds of contributions to the content of Unkiverse:
 
