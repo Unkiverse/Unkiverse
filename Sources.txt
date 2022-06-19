@@ -1,4 +1,4 @@
-The starting point of the file "Sources", kindly quote under the given subcategory,
+This is the starting point of the file "Sources", kindly quote only under the given subcategory,
 for more information on how to quote here, read the section -Contributions- under 
 the main repository of Unkiverse (this repository)
 
@@ -8,19 +8,47 @@ the main repository of Unkiverse (this repository)
 
 
 
-# 2. Composition
+2. Composition
 
-
-# 3. Properties
-
-
-
-# 4. Models & Theories
-
-
-
-# 5. Scientific Instruments
+a) Ordinary Matter
+b) Antimatter
+c) Dark Matter
+d) Subatomic Particles
+e) Dark Energy
+f) Black Holes
 
 
 
-# 6. Q & A
+
+3. Properties
+
+a) Funamental States of Matter
+b) Fundamental Forces
+c) Age
+d) Size & Expansion
+e) Shape
+f) Regions
+g) Spacetime
+h) Support of Life
+
+
+
+
+4. Models & Theories
+
+a) The Big Bang Theory
+b) Multiverse Hypothesis
+c) String Theory
+d) Simulation Hypothesis
+e) Infinitism
+f) Ultimate Fate of The Universe
+
+
+
+
+
+5. Scientific Instruments
+
+
+
+6. Q & A
