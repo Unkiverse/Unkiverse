@@ -2,7 +2,7 @@
 # Unkiverse
 
 <p align="center">
- <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="700" height="400" />
+ <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="650" height="400" />
 
 
 ## Contributions:
