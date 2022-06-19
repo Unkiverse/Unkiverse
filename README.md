@@ -1,10 +1,10 @@
 
-#Unkiverse
+# Unkiverse
 
 <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="1000" height="700" />
 
 
-##Contributions:
+## Contributions:
 
 How to contribute:
 
