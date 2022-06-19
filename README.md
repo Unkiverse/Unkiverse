@@ -2,7 +2,7 @@
 # Unkiverse
 
 <p align="center">
-   <a href="url"><img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" height="auto" width="200" style="border-radius:50%"></a>
+   <a href="url"><img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" height="650" width="400" style="border-radius:50%"></a>
   
   
  
