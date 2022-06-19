@@ -1,3 +1,4 @@
+
 # Unkiverse
 
 ## Contributions:
@@ -24,4 +25,4 @@ Internet link: *URL*
 
 Book, magazines, newspapers: *Author's name, medium's name, page's number.*
 
-![Background](https://user-images.githubusercontent.com/32032636/174474797-b519231c-1daa-42ac-94c2-b7e3fd44c24b.png)
+
