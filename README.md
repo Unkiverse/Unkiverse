@@ -5,7 +5,7 @@
    <a href="url"><img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" height="auto" width="200" style="border-radius:50%"></a>
   
   
-  <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="650" height="400" style="border-radius:50%" />
+ 
 
 
 ## Contributions:
