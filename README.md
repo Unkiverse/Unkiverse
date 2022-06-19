@@ -1,13 +1,21 @@
 
-# Unkiverse
+#Unkiverse
 
-## Contributions:
 
-How to contribute
+
+
+
+<img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="200" height="400" />
+
+
+
+
+##Contributions:
+
+How to contribute:
 
 Contributing to the content of Unkiverse requires you to be on the board with other contributors, for now, 
 viewing the content is for everyone but editing and modifying Unkiverse's content is limited to the internal team.
-
 
 
 There is two kinds of contributions to the content of Unkiverse:
@@ -21,8 +29,8 @@ you need to go the file that is called "Sources" and add the reference
 under the given name of the category like the following:
 
 
-Internet link: *URL* 
+a. Internet link: *URL* 
 
-Book, magazines, newspapers: *Author's name, medium's name, page's number.*
+b. Book, magazines, newspapers: *Author's name, medium's name, page's number.*
 
 
