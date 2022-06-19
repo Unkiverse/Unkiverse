@@ -5,9 +5,9 @@
   
  <html>
  <body>
-  <h1 id="only_img">Only IMG</h1>
+  
   <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png"
-  style='border: 4px solid #f00; margin: 20px;'
+  style='border: 150px solid #f00; margin: 20px;'
  </body>
  </html>
 
