@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="200" height="400" />
+<img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="1000" height="400" />
 
 
 
