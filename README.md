@@ -17,12 +17,10 @@
 ## Contributions:
 
 Contributing to the content of Unkiverse requires you to be on the board with other contributors, for now, 
-viewing the content is for everyone but editing and modifying Unkiverse's content is limited to the internal team.
+viewing the content is for everyone but editing and modifying Unkiverse's content is limited to the 
+internal team.
   
-  
-  
-  
-  
+ 
   
 ### How to contribute:
   
