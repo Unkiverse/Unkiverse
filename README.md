@@ -10,6 +10,7 @@
 Welcome to Unkiverse, a place in which we believe the knowledge of the whole universe belongs to the whole world, 
 for now, our main goal is to create and update the initial map that will include every possible aspect about
 our universe. 
+
 We are still in the early stages, more updates to follow!
   
   
