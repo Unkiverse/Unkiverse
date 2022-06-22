@@ -12,5 +12,8 @@ it accessible to everyone at any time, get to know how our universe is functioni
 to discover in Unkiverse. We are still in the Alpha version means that you might face some bugs, typos, etc., If you saw any of them or simply 
 would like to provide us with feedback, then don't hesitate to do so, we appreciate any contributions!
 
-Unkiverse is categorised into chapters:
-1) Compo
+In Unkiverse, the Universe is categorised into the following chapters:
+1) Composition
+2) Properties
+3) Models & Theories
+4) Scientific Instruments
