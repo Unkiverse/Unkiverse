@@ -5,7 +5,7 @@
   <img src="https://github.com/Unkiverse/Unkiverse/blob/main/Assets/Background.png" width="auto" height="auto" />
 
 
-## Your Interactive Universe! 🔭🌠
+## Your Interactive Universe! 🌠🔭
   
 Welcome to Unkiverse, a place in which we believe the knowledge of the whole universe belongs to the whole world, 
 for now, our main goal is to create and update the initial map that will include every possible aspect about
@@ -20,7 +20,7 @@ We are still in the early stages, more updates to follow!
   
   
   
-## Deployments 📱🖥️
+## Deployments 🖥️📱
  
 For now, we are focusing on building the core content for the platform, for building the platform and publish it, 
 we will be using stable and efficient frameworks so we can publish Unkiverse for Android, iOS and Web as soon 
