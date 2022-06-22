@@ -26,9 +26,11 @@ For now, we are focusing on building the core content for the platform, for buil
 we will be using stable and efficient frameworks so we can publish Unkiverse for Android, iOS and Web as soon 
 as possible after we finish building the core content.
   
-First batch: Android and iOS.
-Second batch: Web.
-Third batch: Windows, macOS and Linux (FlatPak).
+First batch: Android and iOS
+
+Second batch: Web
+
+Third batch: Windows, macOS and Linux (FlatPak)
 
   
   
