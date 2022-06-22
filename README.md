@@ -11,6 +11,10 @@ Welcome to Unkiverse, a place in which we believe the knowledge of the whole uni
 for now, our main goal is to create and update the initial map that will include every possible aspect about
 our universe. 
 
+In Unkiverse, you will find most of what we know about our universe, from Dark Energy to the fundamental forces
+of the universe.
+
+
 We are still in the early stages, more updates to follow!
   
   
