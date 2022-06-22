@@ -20,10 +20,20 @@ We are still in the early stages, more updates to follow!
   
   
   
+## Deployments
+ 
+For now, we are focusing on building the core content for the platform, for building the platform and publish it, 
+we will be using stable and efficient frameworks so we can publish Unkiverse for Android, iOS and Web as soon 
+as possible after we finish building the core content.
+  
+First batch: Android and iOS
+Second batch: Web
+Third batch: Windows, macOS and Linux (FlatPak)
+
   
   
   
-## Contributions:
+## Contributions
 
 Contributing to the content of Unkiverse requires you to be on the board with other contributors, for now, 
 viewing the content is for everyone but editing and modifying Unkiverse's content is limited to the 
