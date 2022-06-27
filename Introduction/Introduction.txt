@@ -38,3 +38,6 @@ Then you are at the right place,
 discover some of the most important satellites, particle accelerators and more.
 
 
+For the time being, Unkiverse is still under active development (Beta phase). 
+If you have found bugs, typos, wrong pieces of information or even if you have any suggestions, 
+kindly don't hesitate to send feedback to us so we can look into it. 
