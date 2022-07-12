@@ -8,7 +8,7 @@
 ## Your Interactive Universe! 🌠🔭
   
 Welcome to Unkiverse, a place in which we believe the knowledge of the whole universe belongs to the whole world, 
-for now, our main goal is to create and update the initial map that will include every possible aspect about
+for now, our main goal is to create and update the initial map that will include every possible aspect of
 our universe. 
 
 In Unkiverse, you will find most of what we know about our universe, from Dark Energy to the fundamental forces
