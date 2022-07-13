@@ -62,3 +62,5 @@ under the given name of the category like the following:
     b. Book, magazines, newspapers: *Author's name, medium's name, page's number.*
 
 
+Important note: after editing any given page, you need to update the date that can be found beneath the text
+
