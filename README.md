@@ -60,6 +60,7 @@ under the given name of the category like the following:
     a. Internet link: *URL* 
 
     b. Book, magazines, newspapers: *Author's name, medium's name, page's number.*
+  
 
 
 Important note: after editing any given page, you need to update the date that can be found beneath the text
