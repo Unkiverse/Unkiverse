@@ -63,5 +63,5 @@ under the given name of the category like the following:
   
 
 
-Important note: after editing any given page, you need to update the date that can be found beneath the text
-
+Important note: after editing any given page, you need to update the date which is beneath each page 
+based on the following format: dd.mm.yyyy
