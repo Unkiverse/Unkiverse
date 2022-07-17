@@ -1,3 +1,43 @@
+A black hole is an astronomical object which has a strong gravitational 
+force that even light can't escape.
+Black holes can't be observed directly as light can't 
+be reflected on its "surface" and therefore on our space 
+instruments (telescopes) to directly observe it. This is why we rely 
+on observing the behaviour of objects (stars, space gas, etc.) around 
+it in order to determine whether there is a black hole or not in a particular region 
+in space, its distant to us and even other important properties like the size of it.
+
+
+Black holes are categorised in three classes:
+1) The smallest ones are known as primordial black holes. Scientists 
+believe this type of black hole is as small as a single atom but with the mass 
+of a large mountain. Primordial black holes are thought to have formed in the early 
+universe, soon after the big bang.
+
+2) The most common type of medium-sized black holes is called "stellar." 
+The mass of a stellar black hole can be up to 20 times greater than the mass 
+of the sun and can fit inside a ball with a diameter of about 10 miles. 
+Dozens of stellar mass black holes may exist within the Milky Way galaxy.
+Stellar black holes form when the center of a very massive star collapses in upon itself. 
+This collapse also causes a supernova, or an exploding star, 
+that blasts part of the star into space.
+
+3)The largest black holes are called "supermassive." These black holes have 
+masses greater than 1 million suns combined and would fit inside a ball 
+with a diameter about the size of the solar system. Scientific evidence suggests 
+that every large galaxy contains a supermassive black hole at its center. 
+The supermassive black hole at the center of the Milky Way galaxy is called Sagittarius A. 
+It has a mass equal to about 4 million suns and would fit inside a ball 
+with a diameter about the size of the sun.
+Scientists think supermassive black holes formed at the same time as the galaxy 
+they are in. The size of the supermassive black hole is related to the size and 
+mass of the galaxy it is in.
+
+Our sun does not have enough mass to collapse into a black hole. 
+In billions of years, when the sun is at the end of its life, 
+it will become a red giant star. Then, when it has used the last of its fuel, 
+it will throw off its outer layers and turn into a glowing ring of gas called a 
+planetary nebula. Finally, all that will be left of the sun is a cooling white dwarf star.
 
 
 
@@ -6,4 +46,8 @@
 
 
 
-Last updated on: 13.07.2022
+
+
+
+
+Last updated on: 17.07.2022
